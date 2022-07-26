@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
                        The Experience Platform Edge Identity extension enables handling Identity data from a mobile device using the Adobe Experience Platform SDK.
                        DESC
 
-  s.homepage         = "https://github.com/adobe/aepsdk-identityedge-ios.git"
+  s.homepage         = "https://github.com/FrazierMark/aepsdk-identityedge-ios.git"
   s.license          = { :type => "Apache License, Version 2.0", :file => "LICENSE" }
   s.author           = "Adobe Experience Platform SDK Team"
-  s.source           = { :git => "https://github.com/adobe/aepsdk-identityedge-ios.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/FrazierMark/aepsdk-identityedge-ios.git", :tag => s.version.to_s }
   s.ios.deployment_target = '10.0'
   s.swift_version = '5.1'
 

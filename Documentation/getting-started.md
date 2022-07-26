@@ -1,7 +1,7 @@
 ## Getting started
 
 The Adobe Experience Platform Identity for Edge Network extension has the following peer dependency, which must be installed prior to installing the identity extension:
-- [AEPCore](https://github.com/adobe/aepsdk-core-ios#readme)
+- [AEPCore](https://github.com/FrazierMark/aepsdk-core-ios#readme)
 
 ## Add the AEP Identity extension to your app
 
